@@ -1,0 +1,20 @@
+{
+  "name": "ts-service-template",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mist-cloud-eu/ts-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mist-cloud-eu/mist-tools-ts": "^3.0.4"
+  }
+}

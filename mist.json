@@ -1,0 +1,7 @@
+{
+  "hooks": {
+    "main/hello": "englishAction",
+    "main/hola": "spanishAction",
+    "main/intermediate": "intermediateAction"
+  }
+}
